@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "sonn",
+      "price": 20000000,
+      "id": 4
+    },
+    {
+      "name": "dũng",
+      "price": 1111,
+      "id": 5
+    },
+    {
+      "name": "sonnnn",
+      "price": 111111,
+      "id": 6
+    }
+  ]
+}
